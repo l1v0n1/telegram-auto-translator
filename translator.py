@@ -42,7 +42,7 @@ async def stop_translating(event):
 
 @client.on(events.NewMessage(outgoing=True))
 async def main(event):
-    if language["start"] == 1 and not event.message.message.startswith(".tr"):
+    if language["start"] == 1 and not event.message.message.startswith(".tr") and event.message.message != '':
         try:
             message = translator.translate(event.message.message, language["lang"])
             await event.edit(message.result)
