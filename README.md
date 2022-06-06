@@ -8,13 +8,13 @@
 
 https://user-images.githubusercontent.com/70073044/172148688-a63716c2-3ba4-48c5-acd8-4e0bbf3ff4f3.MP4
 
-
-
-
-
-
+## Userbot features:
+> Start/stop auto translation
   
-### Installation:
+> Changing the translation language directly in Telegram
+
+
+## Installation:
 ```sh
 mkdir telegramtranslator && cd telegramtranslator
 ```
