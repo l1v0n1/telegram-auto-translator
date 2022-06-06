@@ -2,6 +2,18 @@
   Automatic translator of your telegram messages
  <p align="center">For the bot to work correctly, install the latest version of python.
 
+## Example
+  
+
+
+https://user-images.githubusercontent.com/70073044/172148688-a63716c2-3ba4-48c5-acd8-4e0bbf3ff4f3.MP4
+
+
+
+
+
+
+  
 ### Installation:
 ```sh
 mkdir telegramtranslator && cd telegramtranslator
