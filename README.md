@@ -22,8 +22,7 @@ cd telegram-auto-translator
 pip install -r requirements.txt
 ```
 ### Setup:
-```
-go to https://my.telegram.org/apps log in, create an application, take api id and api hash and replace this in translator.py file
+Follow the link https://my.telegram.org/apps - log in, create an application, take api id and api hash and replace this in translator.py file
 ```python
 API_ID = 123
 API_HASH = "123"
